@@ -2,5 +2,5 @@
 
 ## Contributor
 
-# Kasak Vaish
-# Atmagyan Singh
+### Kasak Vaish
+### Atmagyan Singh
