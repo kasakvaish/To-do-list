@@ -1,6 +1,6 @@
 # To-do-list-1
 
-##Contributor
+## Contributor
 
-#Kasak Vaish
-#Atmagyan Singh
+# Kasak Vaish
+# Atmagyan Singh
